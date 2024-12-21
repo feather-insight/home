@@ -1,3 +1,12 @@
+#contact {
+    display: flex;
+    flex-direction: column; /* Aligne les éléments verticalement */
+    align-items: center; /* Centre horizontalement */
+    justify-content: center; /* Centre verticalement */
+    height: 100vh; /* Occupe toute la hauteur de la fenêtre */
+    text-align: center; /* Centre le texte */
+}
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
