@@ -1,0 +1,17 @@
+{
+    "welcome": "Welcome to Feather Insight",
+    "description": "We talk here about all the topics that interest us daily, from economics to culture.",
+    "science": "Science",
+    "scienceDesc": "The forces acting on a Naca 4412 profile can be explained by Bernoulli's laws. The aerodynamic shape of the profile reduces drag and increases lift, which is crucial for aeronautical applications.",
+    "economy": "Economy",
+    "economyDesc": "Regularly investing in the S&P500 can be an interesting strategy to diversify your portfolio and benefit from the long-term growth of the US stock market.",
+    "culture": "Culture",
+    "tips": "Tips and Tricks",
+    "tipsDesc": "In this section, we will share various tips and tricks to improve your daily life.",
+    "pembroke": "The Pembroke Diary",
+    "pembrokeDesc": "This is a novel that I publish as I progress on a certain Elizabeth Pembroke.",
+    "contact": "Contact",
+    "contactDesc": "Contact me at",
+    "readNovel": "Read the novel",
+    "switchLang": "Passer en français"
+}
