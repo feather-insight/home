@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: rgba(0, 56, 179, 0.8);
+    background-color: #001f3f;
     color: white;
     padding: 1rem 0;
     text-align: center;
@@ -66,8 +66,8 @@ nav ul li a {
     right: 1rem;
     top: 50%;
     transform: translateY(-50%);
-    background-color: #002d60;
-    color: white;
+    background-color: white;
+    color: #001f3f;
     border: none;
     padding: 0.5rem 1rem;
     border-radius: 5px;
@@ -84,7 +84,7 @@ section {
 }
 
 h1, h2 {
-    color: #003d80;
+    color: #001f3f;
 }
 
 img {
@@ -105,7 +105,7 @@ img {
 .btn {
     display: inline-block;
     padding: 0.5rem 1rem;
-    background-color: #003d80;
+    background-color: #001f3f;
     color: white;
     text-decoration: none;
     border-radius: 5px;
@@ -113,7 +113,7 @@ img {
 }
 
 .btn:hover {
-    background-color: #002d60;
+    background-color: #001428;
 }
 
 .full-image {
