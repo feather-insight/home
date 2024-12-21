@@ -62,12 +62,10 @@ nav ul li a {
 }
 
 #lang-switch {
-    position: absolute;
-    right: 1rem;
-    top: 50%;
-    transform: translateY(-50%);
-    background-color: white;
-    color: #001f3f;
+    display: block;
+    margin: 1rem auto 0;
+    background-color: #001f3f;
+    color: white;
     border: none;
     padding: 0.5rem 1rem;
     border-radius: 5px;
@@ -121,4 +119,18 @@ img {
     height: auto;
     display: block;
     margin-bottom: 2rem;
+}
+
+.contact-info {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1rem;
+}
+
+.email {
+    color: #001f3f;
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 0.5rem;
 }
