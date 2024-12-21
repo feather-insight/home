@@ -4,13 +4,6 @@ body {
     padding: 0;
     background-color: #f0f8ff;
     color: #333;
-    background-image: url('pictures/back.png');
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    background-blend-mode: multiply;
-    opacity: 0.8;
 }
 
 header {
@@ -121,4 +114,11 @@ img {
 
 .btn:hover {
     background-color: #002d60;
+}
+
+.full-image {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin-bottom: 2rem;
 }
