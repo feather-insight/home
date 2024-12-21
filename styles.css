@@ -62,8 +62,9 @@ nav ul li a {
 }
 
 .lang-switch-container {
-    text-align: center;
+    text-align: right;
     margin-top: 1rem;
+    padding-right: 1rem;
 }
 
 #lang-switch {
@@ -129,7 +130,7 @@ img {
     align-items: center;
     justify-content: center;
     margin-top: 1rem;
-    flex-direction: column;
+    flex-direction: row;
     text-align: center;
 }
 
@@ -137,5 +138,5 @@ img {
     color: #001f3f;
     text-decoration: none;
     font-weight: bold;
-    margin-top: 0.5rem;
+    margin-left: 0.5rem;
 }
