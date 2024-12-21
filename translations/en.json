@@ -13,5 +13,13 @@
     "contact": "Contact",
     "contactDesc": "Contact me at",
     "readNovel": "Read the novel",
-    "switchLang": "Passer en français"
+    "switchLang": "FR",
+    "home": "Home",
+    "navScience": "Science",
+    "navEconomy": "Economy",
+    "navCulture": "Culture",
+    "navTips": "Tips and Tricks",
+    "navPembroke": "The Pembroke Diary",
+    "navContact": "Contact",
+    "siteName": "Feather Insight"
 }

@@ -8,25 +8,30 @@
 </head>
 <body>
     <header>
-        <img src="pictures/owl.png" alt="Feather Insight Logo" class="logo">
+        <div class="logo-container">
+            <div class="logo-background">
+                <img src="pictures/owl.png" alt="Feather Insight Logo" class="logo">
+            </div>
+            <h1 data-i18n="siteName"></h1>
+        </div>
         <nav>
             <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="science.html">Science</a></li>
-                <li><a href="economy.html">Economy</a></li>
-                <li><a href="culture.html">Culture</a></li>
-                <li><a href="tips.html">Tips and Tricks</a></li>
-                <li><a href="pembroke-diary.html">The Pembroke Diary</a></li>
-                <li><a href="contact.html">Contact</a></li>
+                <li><a href="index.html" data-i18n="home"></a></li>
+                <li><a href="science.html" data-i18n="navScience"></a></li>
+                <li><a href="economy.html" data-i18n="navEconomy"></a></li>
+                <li><a href="culture.html" data-i18n="navCulture"></a></li>
+                <li><a href="tips.html" data-i18n="navTips"></a></li>
+                <li><a href="pembroke-diary.html" data-i18n="navPembroke"></a></li>
+                <li><a href="contact.html" data-i18n="navContact"></a></li>
             </ul>
-            <button id="lang-switch">Switch to English</button>
+            <button id="lang-switch" data-i18n="switchLang"></button>
         </nav>
     </header>
 
     <main>
         <section id="contact">
             <h2 data-i18n="contact"></h2>
-            <img src="pictures/envelope.png" alt="Envelope">
+            <img src="pictures/envelope.png" alt="Envelope" class="small-icon">
             <p data-i18n="contactDesc"> <a href="mailto:feather.insight@gmail.com">feather.insight@gmail.com</a></p>
         </section>
     </main>
