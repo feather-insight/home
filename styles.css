@@ -62,14 +62,16 @@ nav ul li a {
 }
 
 #lang-switch {
-    display: block;
-    margin: 1rem auto 0;
+    position: absolute;
+    top: 100%;
+    right: 1rem;
     background-color: #001f3f;
     color: white;
     border: none;
     padding: 0.5rem 1rem;
     border-radius: 5px;
     cursor: pointer;
+    transform: translateY(-50%);
 }
 
 main {
